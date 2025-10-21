@@ -1,0 +1,10 @@
+numpy==1.26.4
+python-math
+opencv-python==4.10.0.84
+mediapipe==0.10.14
+tensorflow==2.15.0
+keras==2.15.0
+protobuf==4.25.3
+google==3.0.0
+tf_keras==2.15.0
+gradio
